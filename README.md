@@ -46,6 +46,24 @@
 - 🌍 Real-world problem solving tools
 
 ---
+<!-- HERO BANNER -->
+<h1 align="center">⚡ Aman Gound ⚡</h1>
+<h3 align="center">AI Engineer • ML Explorer • Future Tech Founder</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems;Machine+Learning+Developer;Hackathon+Builder;Startup+Mindset;Engineering+the+Future" />
+</p>
+
+---
+
+## 🧠 WHO AM I
+
+```diff
++ Engineering student specializing in AI & ML
++ Building real-world projects
++ Obsessed with automation & intelligence
++ Looking for hackathons, collaborations & startups
+
 
 ## 🌐 Connect With Me
 
