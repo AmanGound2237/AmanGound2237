@@ -1,53 +1,61 @@
-<h1 align="center">Hi 👋, I'm Aman Gound</h1>
-<h3 align="center">🚀 AI/ML Engineer in the Making | Future Tech Builder | Problem Solver</h3>
+<!-- HOLOGRAPHIC AI HEADER -->
+<h1 align="center">⚡ AMAN GOUND ⚡</h1>
+<h3 align="center">AI Systems Builder • Machine Learning Engineer • Tech Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Future+Startup+Founder;Hackathon+Lover;Building+Projects+That+Matter" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=950&lines=Designing+Intelligent+Systems;Building+AI+Powered+Solutions;Automation+Enthusiast;Startup+Mindset;Future+Tech+Architect" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 PROFILE SUMMARY
 
-- 🎓 Engineering Student in **Artificial Intelligence & Machine Learning**
-- 🤖 Obsessed with **AI, automation, and building smart systems**
-- 💡 Love turning **ideas into working products**
-- 🚀 Looking to collaborate on **projects, startups & hackathons**
-- 🧩 I believe: *"Skills > Degrees"*
+I design and build **intelligent systems** that solve real-world problems using machine learning, automation, and modern software engineering.
+
+Focused on:
+- AI-driven applications  
+- Predictive modeling  
+- Smart automation tools  
+- Scalable system design  
 
 ---
 
-## ⚡ Tech Arsenal
+## 🧬 TECH DNA
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,tensorflow,pytorch,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,tensorflow,pytorch,mysql,git,github,linux,docker&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Power Stats
+## 🧩 PROJECT SHOWCASE
+
+| 🚀 Project | 🧠 What It Does | ⚙ Tech |
+|-----------|----------------|--------|
+| AI System | Intelligent decision-making | Python, ML |
+| Interactive Platform | Dynamic user systems | React, Node |
+| Prediction Model | Data-driven forecasting | TensorFlow |
+
+---
+
+## 📊 PERFORMANCE METRICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmanGound2237&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanGound2237&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
+---
+
+## 🐍 ACTIVITY VISUALIZER
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanGound2237&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/AmanGound2237/AmanGound2237/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🧩 What I'm Building
-
-- 🔥 AI-based systems
-- 🎮 Interactive applications
-- 🧠 Machine learning models
-- 🌍 Real-world problem solving tools
-
----
-
-## 🌐 Connect With Me
+## 🌍 NETWORK
 
 <p align="center">
   <a href="https://www.instagram.com/aman.g_224"><img src="https://img.shields.io/badge/Instagram-ff006e?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -56,12 +64,12 @@
 
 ---
 
-## 🧠 Quote I Live By
+## 🧠 OPERATING PRINCIPLE
 
-> "The future belongs to those who build it."
+> “Build systems that think. Build tools that scale.”
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmanGound2237&label=Profile+Views&color=00f7ff&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AmanGound2237&label=Visitors&color=00f7ff" />
 </p>
